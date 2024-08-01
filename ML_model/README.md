@@ -1,0 +1,1 @@
+Train the model with model_training.ipynb, mark the tools_*.py file to choose CNN, VAE or Transformer model, modify the output head in Classfier class to change task.
