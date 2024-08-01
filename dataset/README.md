@@ -1,0 +1,1 @@
+Each bin file contains the compressed information of three Euler angles and one 3D image. To uncompress the bin file, use the BinDataset class in the ML_model.
